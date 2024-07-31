@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class jogo {
@@ -57,7 +56,7 @@ public class jogo {
                         }
                     }
                 } catch (Exception e) {
-
+                    //Verificando
                 }
             }
         }
